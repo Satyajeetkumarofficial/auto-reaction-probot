@@ -1,6 +1,6 @@
 export const startMessage = `👋 Hello there, UserName !
 
-Welcome to the *Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversations with a little extra happiness!
+Welcome to the *Auto Emoji Reaction ProBot 🎉*, ready to sprinkle your conversations with a little extra happiness!
 
 💁‍♂️ Here's how I spice up your chats:
 
